@@ -56,9 +56,14 @@ String message = "-------------------------\n" +
                 "العمر: " + ageField.getText() + " سنة\n" +
                 "-------------------------";
 
-📧 Contact
+👨‍💻 المطور
+اسم: يوسف النحاس
 
-Developer: يوسف النحاسID: 2400468For educational purposes only
+البريد: DEV.ALNAHAS@GMAIL.COM
+
+حساب GitHub: https://github.com/Alna7as
+
+
 
 Designed with attention to detail ✨
 
